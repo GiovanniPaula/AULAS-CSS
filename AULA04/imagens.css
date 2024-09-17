@@ -1,0 +1,12 @@
+body{
+    background-image: url(./AULA04/corinthians.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h1{
+    color: aliceblue;
+}
+img{
+    width: 500px;
+    height: 500px;
+}

@@ -1,0 +1,23 @@
+body{
+    color: red;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0;
+    padding:0;
+}
+
+
+
+p{ 
+    text-align: center;
+    text-align: justify; 
+}
+button{
+    font-size: large;
+    background-color: orange;
+    color: white;
+}
+
+
+
+

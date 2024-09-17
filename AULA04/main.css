@@ -1,0 +1,22 @@
+.titulo{
+    color: yellow;
+}
+.italico{
+    font-style: italic;
+}
+.sombra{
+    filter: drop-shadow(5px 5px 10px black);
+}
+#ola{ 
+    color: red;
+
+}
+#alo {
+    color: aqua;
+}
+#eai{
+    color: chartreuse;
+}
+#paragrafos{
+    background-color: gray;
+}

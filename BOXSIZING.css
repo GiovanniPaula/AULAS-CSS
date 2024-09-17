@@ -1,0 +1,21 @@
+div{
+    height:250px ;
+    width: 250px;
+    border: dotted 1px;
+    margin: 0.5em;
+}
+
+.caixa1{
+    border-color: cadetblue;
+    box-sizing: content-box;
+    padding: 30px;
+    border: dotted 10px cadetblue;
+}
+.caixa2{
+    border-color: blueviolet;
+    font-size: 2em;
+    box-sizing: border border-box;
+    padding: 30px;
+    border: dotted 10px blueviolet;
+
+}

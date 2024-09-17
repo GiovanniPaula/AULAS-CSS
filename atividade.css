@@ -1,0 +1,23 @@
+section {
+    border:solid 1px brown ;
+    
+    text-align: center;
+}
+div {
+    margin: 10px;
+    width: 25vw;
+}
+.primeiro { 
+
+    float: left;
+    border: aqua;
+
+}
+.segundo {
+    float: right;
+    border: red;
+}
+
+imj {
+    border: solid blue;
+}

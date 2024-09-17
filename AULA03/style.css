@@ -1,0 +1,26 @@
+h1 {
+    color: black;
+    text-align: center;
+    font-weight: 200;
+    line-height: 200%;
+    /* text-shadow: 5px 5px 4px #FC6AAE; */
+    text-shadow: 5px 10px 10px #FC6AAE;
+
+}
+
+p {
+     text-indent: 2.5em;
+    /*font font-weight: border: */
+    text-align: center;
+    font-size: initial;
+    font-weight: 100;
+    line-height: 70%;
+    text-align: justify;
+ }
+.chief {
+    box-shadow: 10px 11px 5px #FC6AAE;
+}
+.cj {
+    filter: drop-shadow(10px 11px 5px #FC6AAE);
+    
+}

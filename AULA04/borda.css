@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+    color: #4CAf50;
+}
+table{
+    width: 100%;
+    border-width: widthd;
+    margin: 20px 0 ;
+    box-shadow: 0 0 10px rgb(0,0,0,0.1);
+}
+tr,td{
+    padding: 12px;
+    text-align: left;
+    border-bottom: 15px solid #ddd;
+}
+th{
+    background-color: #4CAf50;
+    color: rgb(255, 255, 255);
+}
