@@ -1,0 +1,15 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    
+}
+p::before{
+    content: "🐶";
+}
+h3::after{
+    content: "🐱";
+}
+h2::first-line{
+    font-size: 200%;
+    color: blueviolet;
+}
