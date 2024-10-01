@@ -1,0 +1,49 @@
+@charset "utf-8";
+h1{
+    color: crimson;
+}
+body{
+    background-color: aqua;
+}
+@media screen and (max-width: 320px) {
+    h1{
+        color: darksalmon;
+        font-size: 2.3rem;
+    }
+    
+}
+@media print and (max-width: 800px) {
+
+}
+    h1{
+        color: red;
+    }
+
+
+    h2{
+        color: red;
+    }
+
+    @media screen and (max-width: 320px) {
+        
+    }
+
+    @media print and (max-width: 1200px)  {
+
+    }
+
+    @media (max-width: 481px) {
+        h3{
+            background-color: greenyellow;
+            color: red;
+        }
+
+    }
+    @media (min-width: 769px) {
+
+    }
+    @media (min-width: 1025px) and (max-width: 1200px) {
+    h2, h3, h4, h5{
+        display: none;
+    }
+    }
